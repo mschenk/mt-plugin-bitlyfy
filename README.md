@@ -26,4 +26,4 @@ This plugin was written by Maarten Schenk (maarten@yesitcan.be) of http://www.ye
 
 Download
 ---------
-The plugin can be downloaded here: [https://github.com/mschenk/mt-plugin-bitlyfty/downloads](https://github.com/mschenk/mt-plugin-bitlyfy/downloads)
+The plugin can be downloaded here: [https://github.com/mschenk/mt-plugin-bitlyfy/archive/master.zip](https://github.com/mschenk/mt-plugin-bitlyfy/archive/master.zip)
