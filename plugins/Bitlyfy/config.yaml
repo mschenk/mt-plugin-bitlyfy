@@ -1,0 +1,19 @@
+name: Bitlyfy Plugin for Movable Type
+id: Bitlyfy
+author_link: http://www.movabletips.com/
+author_name: Maarten Schenk
+description: This plugin adds a bitlyfying option for Movable Type.
+plugin_link: https://github.com/mschenk/mt-plugin-bitlyfy
+doc_link: http://www.yesitcan.be/bitlyfy_plugin_for_movable_type.html
+version: 1.0
+tags:
+    modifier:
+        bitlyfy:
+            handler: $Bitlyfy::Bitlyfy::Plugin::bitlyfy
+settings:
+  bitly_username:
+    scope: system
+  bitly_key:
+    scope: system
+    
+system_config_template: tmpl/config.tmpl          
